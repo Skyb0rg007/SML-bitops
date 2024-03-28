@@ -1,0 +1,12 @@
+
+Group is
+  $/basis.cm
+  $/smlnj-lib.cm
+  word-extras.sig
+  word.sml
+  word8.sml
+  word32.sml
+  word64.sml
+  word-extras.fun
+
+  test.sml
